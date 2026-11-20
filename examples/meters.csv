@@ -1,0 +1,5 @@
+meter_id,type,unit,location,rollover_at
+E-MAIN,electric,kWh,Main switchboard,
+E-CHILLER,electric,kWh,Chiller plant,
+W-MAIN,water,gal x100,Water entry room,100000
+G-BOILER,gas,therms,Boiler room,
