@@ -2,6 +2,8 @@
 
 # meter-reading-logger
 
+[![CI](https://github.com/yassine2med/meter-reading-logger/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/meter-reading-logger/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Utility meters get read once a month, written on a sheet, and typed into a spreadsheet. A dropped digit, a meter that rolled over, a month that was skipped, or a pump that quietly ran all weekend all look like normal numbers until the bill arrives. This repo turns a plain CSV of readings into usage per interval and flags the ones that deserve a second look.
 
 ![Screenshot](docs/screenshot.png)
