@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="meter-reading-logger" width="100%"></p>
+
 # meter-reading-logger
 
 Utility meters get read once a month, written on a sheet, and typed into a spreadsheet. A dropped digit, a meter that rolled over, a month that was skipped, or a pump that quietly ran all weekend all look like normal numbers until the bill arrives. This repo turns a plain CSV of readings into usage per interval and flags the ones that deserve a second look.
